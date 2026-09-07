@@ -12,8 +12,7 @@ A full-stack Duolingo-style learning application built with **Next.js 15, TypeSc
 
 ## Demo
 
-[▶ View Demo Video](./duolingoDemo.mp4)
-
+https://github.com/user-attachments/assets/378aefd8-5221-4961-a56d-0f2968d9c50b
 
 ## Features
 
