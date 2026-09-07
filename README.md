@@ -12,9 +12,8 @@ A full-stack Duolingo-style learning application built with **Next.js 15, TypeSc
 
 ## Demo
 
-> Project walkthrough video will be uploaded directly to GitHub.
+[▶ View Demo Video](./duolingoDemo.mp4)
 
-[Watch Project Demo](YOUR_GITHUB_VIDEO_URL)
 
 ## Features
 
