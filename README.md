@@ -248,8 +248,3 @@ BACKEND_API_URL=https://duolingo-clone-9ri3.onrender.com
 | AI | Duo Max tutor and exercise explanations |
 | Deployment | Vercel frontend and Render backend |
 
-## Author
-
-**Aditya Verma**
-
-> Independent educational project inspired by Duolingo. Not affiliated with or endorsed by Duolingo.
