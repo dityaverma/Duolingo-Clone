@@ -43,23 +43,6 @@ The learning content follows the hierarchy:
 
 **Unit → Skill → Lesson → Exercise**
 
-```mermaid
-erDiagram
-    UNIT ||--o{ SKILL : contains
-    SKILL ||--o{ LESSON : contains
-    LESSON ||--o{ EXERCISE : contains
-
-    USER ||--o{ USER_SKILL_PROGRESS : tracks
-    USER ||--o{ USER_LESSON_PROGRESS : tracks
-    USER ||--o{ USER_ACHIEVEMENT : earns
-    USER ||--o{ LEADERBOARD_ENTRY : has
-    USER ||--o{ TUTOR_MESSAGE : has
-
-    SKILL ||--o{ USER_SKILL_PROGRESS : has
-    LESSON ||--o{ USER_LESSON_PROGRESS : has
-    ACHIEVEMENT ||--o{ USER_ACHIEVEMENT : awards
-```
-
 ## Core API
 
 | Method | Endpoint | Description |
